@@ -1,35 +1,39 @@
-# Harry
+<h1 align="center">👋 Hi, I'm Harry</h1>
 
-🎓 Computer Science Student  
-💻 Software & Web Development  
-🐧 Linux Enthusiast
+<p align="center">
+  🎓 Student • 🐧 Linux Enthusiast • 💻 Programmer  
+</p>
 
----
-
-## 🔧 Technical Skills
-
-**Programming Languages**
-- C
-- C++
-- Python
-- JavaScript
-
-**Web Technologies**
-- HTML
-- CSS
-
-**Tools**
-- Git
-- Linux (Debian, i3wm)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420"/>
+</p>
 
 ---
 
-## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+## 🛠 Languages & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+</p>
 
 ---
 
-## 📌 Interests
-- System programming
-- Open-source contribution
-- Minimal Linux environments
+## 🐧 Linux Environment
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+</p>
+
+```text
+OS      : Debian
+WM      : i3
+Shell   : Bash
+Editor  : Vim / VS Code
