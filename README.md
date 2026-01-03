@@ -1,18 +1,32 @@
-# Hi 👋, I'm Harry
+# 👋 Hi, I'm Harry
 
 🎓 Student  
-💻 Linux & Open Source Enthusiast  
-⚡ i3wm | Debian | Minimal setups
+🐧 Linux user (Debian • i3wm)  
+⚡ Open-source & minimal setups
 
 ---
 
-## 🚀 Skills
-- Linux (Debian, i3wm)
-- Bash scripting
-- Git & GitHub
+## 🛠 Languages & Tools
+- **C**
+- **C++**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **Python**
+- **Git**
+
+---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true)
 
-## 🔗 Connect with me
-- GitHub: https://github.com/YOUR_USERNAME
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
+
+---
+
+## 🐧 System
+```text
+OS      : Debian
+WM      : i3
+Editor  : Vim / VS Code
+Shell   : Bash
