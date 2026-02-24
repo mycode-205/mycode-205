@@ -34,6 +34,7 @@
 
 ```text
 OS      : Debian
-WM      : i3
+WM      : i3  Hyprland  sway
+DE      : Gnome kde plasma xfce
 Shell   : Bash
-Editor  : Vim / VS Code
+Editor  : Vim / VS Code Sublime
