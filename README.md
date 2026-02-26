@@ -1,17 +1,19 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40" /> 
-  <span style="color: #D70A53; text-shadow: 0 0 9px #D70A53, 0 0 15px #ff4d88;">Harry</h1>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="80" height="30" /> 
+  <br>
+  <span style="color: #00eeff; text-shadow: 0 0 10px #00eeff, 0 0 20px #00eeff; font-family: monospace;">
+    HARRY | MYCODE-205
+  </span>
+</h1>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00eeff&height=2&section=header" width="80%"/>
+</p>
+
+<p align="center">
+  <code style="color: #00eeff;">[ IT Student ]</code> • <code style="color: #00eeff;">[ Linux Enthusiast ]</code> • <code style="color: #00eeff;">[ Systems Explorer ]</code>
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<p align="center">
-  <b>IT Student • Linux Enthusiast • Systems Explorer • Dotfile Architect</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; border: 2px solid #D70A53;" />
-</p>
-
----
-
 ## 🛠 Tech Stack & Tools
 
 ### 💻 Programming & Scripting
