@@ -1,38 +1,44 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="20" /> 
-  <span style="color: #00eeff; text-shadow: 0 0 10px #00eeff, 0 0 20px #00eeff;">Harry</h1>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" width="40" /> 
+  <span style="color: #D70A53; text-shadow: 0 0 9px #D70A53, 0 0 15px #ff4d88;">Harry</h1>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-  <i style="color: #bbbbbb;">IT Student • Linux Enthusiast • Systems Explorer • Dotfile Architect</i>
+  <b>IT Student • Linux Enthusiast • Systems Explorer • Dotfile Architect</b>
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; border: 2px solid #00eeff;" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; border: 2px solid #D70A53;" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🛠 Tech Stack & Tools
 
-- 🎓 **IT Student** passionate about systems-level programming and kernels.
-- 🐧 **Debian Purist** who believes in the stability of the spiral.
-- ⚙️ **Rice Enthusiast** focused on maximizing productivity through minimalism.
-- 🚀 Currently diving deep into **C/C++** and **Linux performance tuning**.
-- 💡 *Always learning. Always improving. Always optimizing.*
+### 💻 Programming & Scripting
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></a>
+</p>
 
----
+### ⚙️ Systems & Development
+<p align="left">
+  <a href="https://www.debian.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="50" height="50"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50"/></a>
+</p>
 
-## 🛠 Tech Ecosystem
+### 🌐 Web Frontend
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
+</p>
 
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `C` `C++` `Python` `JavaScript` `Bash` |
-| **Web** | `HTML5` `CSS3` |
-| **Systems** | `Linux` `Debian` `i3wm` `Hyprland` `Sway` |
-| **Dev Ops** | `Git` `GNU Stow` `Automation Scripts` |
-| **Editor** | `Vim` (The OG) & `VS Code` |
-
----
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🖥 Current Environment (The Rice)
 
