@@ -13,6 +13,10 @@
 <p align="center">
   <code style="color: #00eeff;">[ IT Student ]</code> • <code style="color: #00eeff;">[ Linux Enthusiast ]</code> • <code style="color: #00eeff;">[ Systems Explorer ]</code>
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="800" style="border-radius: 10px; border: 2px solid #D70A53;" />
+</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🛠 Tech Stack & Tools
 
